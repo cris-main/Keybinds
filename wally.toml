@@ -1,6 +1,6 @@
 [package]
 name = "cris-main/keybinds"
-version = "0.1.0"
+version = "0.1.1"
 registry = "https://github.com/UpliftGames/wally-index"
 description = "Add keys and keypress indicators to your roblox games."
 author = "Cresmar Mat-an"

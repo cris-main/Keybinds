@@ -1,16 +1,6 @@
 {
   "name": "Keybinds",
   "tree": {
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "Keybinds":{
-        "$path" : "Keybinds",
-
-        "Classes": {
-        "$path": "Classes"
-        }
-      }
-    }
+    "$path": "src"
   }
 }
